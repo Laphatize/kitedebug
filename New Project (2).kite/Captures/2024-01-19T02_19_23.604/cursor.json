@@ -1,0 +1,6322 @@
+{
+  "scaleFactor": 2,
+  "type": "DISPLAY",
+  "cursorMoves": [
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 0,
+      "cursorType": "arrow",
+      "mousePosition": [
+        741.7734375,
+        518.1015625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        744.2109375,
+        518.1015625
+      ],
+      "isDragging": false,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 0,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        746.6484375,
+        518.1015625
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 0,
+      "isClicked": false,
+      "mousePosition": [
+        749.0859375,
+        518.1015625
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 0,
+      "cursorType": "arrow",
+      "mousePosition": [
+        751.5234375,
+        517.61328125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        755.6875,
+        517.015625
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        760.875,
+        515.71484375
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        765.0390625,
+        514.5234375
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        770.2265625,
+        512.57421875
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        774.390625,
+        511.3828125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 0
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        779.578125,
+        510.08203125
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        783.7421875,
+        508.890625
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        787.90625,
+        507.69921875
+      ],
+      "unixTimeMs": 0,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        792.0703125,
+        507.1015625
+      ],
+      "unixTimeMs": 0
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        796.234375,
+        505.91015625
+      ],
+      "unixTimeMs": 0
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 2,
+      "cursorType": "arrow",
+      "mousePosition": [
+        802.1328125,
+        504.875
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        805.37890625,
+        504.33203125
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 9,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        809.54296875,
+        503.734375
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 17,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        818.89453125,
+        501.890625
+      ],
+      "unixTimeMs": 38,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 45,
+      "cursorType": "arrow",
+      "mousePosition": [
+        822.140625,
+        501.34765625
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 50,
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        826.3046875,
+        500.15625
+      ],
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        831.4921875,
+        499.50390625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 58,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        836.6796875,
+        498.203125
+      ],
+      "unixTimeMs": 66,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 74,
+      "cursorType": "arrow",
+      "mousePosition": [
+        841.8671875,
+        496.25390625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        848.1875,
+        494.84765625
+      ],
+      "unixTimeMs": 82,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        854.5078125,
+        492.73828125
+      ],
+      "unixTimeMs": 91,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        862.0703125,
+        490.46875
+      ],
+      "unixTimeMs": 98,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        875.6875,
+        485.6015625
+      ],
+      "unixTimeMs": 108,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        886.70703125,
+        481.0078125
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 115,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        898.64453125,
+        476.4140625
+      ],
+      "unixTimeMs": 124,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        912.26171875,
+        471.546875
+      ],
+      "unixTimeMs": 131,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        926.640625,
+        465.3828125
+      ],
+      "unixTimeMs": 141,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        944.8125,
+        458.56640625
+      ],
+      "unixTimeMs": 147,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        962.984375,
+        450.61328125
+      ],
+      "unixTimeMs": 155,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        985.39453125,
+        441.89453125
+      ],
+      "unixTimeMs": 163,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        1010.01171875,
+        432.8203125
+      ],
+      "unixTimeMs": 171,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 179,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1053.81640625,
+        415.96875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 188,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1086.03125,
+        404.25390625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 196,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1101.4375,
+        399.1171875
+      ],
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        1133.65234375,
+        387.40234375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 204,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 212,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1187.33203125,
+        370.7421875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 220,
+      "isClicked": false,
+      "mousePosition": [
+        1202.73828125,
+        366.6328125
+      ],
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        1233.7421875,
+        358.17578125
+      ],
+      "unixTimeMs": 228,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 236,
+      "isClicked": false,
+      "mousePosition": [
+        1262.1875,
+        350.046875
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1285.84375,
+        343.8203125
+      ],
+      "unixTimeMs": 244,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 253,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1307.26953125,
+        339.0546875
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        1316.1796875,
+        337.43359375
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 261,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 269,
+      "isClicked": false,
+      "mousePosition": [
+        1331.5859375,
+        333.32421875
+      ],
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        1336.7734375,
+        332.671875
+      ],
+      "unixTimeMs": 277,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 285,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1347.14453125,
+        329.2109375
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 627,
+      "isClicked": false,
+      "mousePosition": [
+        1348.046875,
+        329.2109375
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 636,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1350.484375,
+        328.234375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1352.921875,
+        327.2578125
+      ],
+      "unixTimeMs": 644,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 651,
+      "isClicked": false,
+      "mousePosition": [
+        1355.359375,
+        326.28125
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1357.796875,
+        325.3046875
+      ],
+      "unixTimeMs": 660,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1361.04296875,
+        324.21875
+      ],
+      "unixTimeMs": 667,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 676,
+      "isClicked": false,
+      "mousePosition": [
+        1366.23046875,
+        322.91796875
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1372.55078125,
+        320.80859375
+      ],
+      "unixTimeMs": 683,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 693,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1374.98828125,
+        320.3203125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1379.15234375,
+        319.12890625
+      ],
+      "unixTimeMs": 700,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 710,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        1383.31640625,
+        318.53125
+      ]
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 716,
+      "isClicked": false,
+      "mousePosition": [
+        1387.48046875,
+        317.33984375
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1390.7265625,
+        316.796875
+      ],
+      "unixTimeMs": 726,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 732,
+      "isClicked": false,
+      "mousePosition": [
+        1393.1640625,
+        316.30859375
+      ],
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 743,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        1395.6015625,
+        315.8203125
+      ]
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1397.3359375,
+        315.3828125
+      ],
+      "unixTimeMs": 749,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 759,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1399.0703125,
+        314.9453125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1400.8046875,
+        314.5078125
+      ],
+      "unixTimeMs": 766,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 776,
+      "isClicked": false,
+      "mousePosition": [
+        1401.9453125,
+        314.5078125
+      ],
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 782,
+      "isClicked": false,
+      "mousePosition": [
+        1402.59765625,
+        314.1796875
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 793,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1403.73828125,
+        314.1796875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 799,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1404.390625,
+        313.8515625
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1404.6640625,
+        313.8515625
+      ],
+      "unixTimeMs": 805,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1404.9375,
+        313.57421875
+      ],
+      "unixTimeMs": 814,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 821,
+      "isClicked": false,
+      "mousePosition": [
+        1405.2109375,
+        313.57421875
+      ],
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 829,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1405.484375,
+        313.57421875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4914,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.484375,
+        313.3515625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4924,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.484375,
+        310.46875
+      ]
+    },
+    {
+      "mousePosition": [
+        1405.484375,
+        309.8125
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 4932,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4940,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.484375,
+        308.671875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4947,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.484375,
+        308.015625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4953,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.86328125,
+        306.87109375
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1405.86328125,
+        305.140625
+      ],
+      "unixTimeMs": 4960,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4968,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1406.34765625,
+        302.69921875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4976,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1406.88671875,
+        299.44921875
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 4983,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1407.42578125,
+        296.19921875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 4992,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        292.94921875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5000,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        288.78125
+      ]
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        1407.42578125,
+        283.58984375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5009
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5016,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        277.265625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5025,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        270.94140625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5032,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        262.02734375
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5041,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        253.11328125
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5049,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        244.19921875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5057,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1407.42578125,
+        235.28515625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5065,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1406.33984375,
+        232.03515625
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5074,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1405.63671875,
+        225.7109375
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5081,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1403.8515625,
+        221.54296875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5090,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1402.06640625,
+        217.375
+      ]
+    },
+    {
+      "mousePosition": [
+        1398.28125,
+        210.56640625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 5097,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5106,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1395.57421875,
+        208.3984375
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5114,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1392.00390625,
+        205.421875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5122,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1382.51953125,
+        201.109375
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5130,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1374.4140625,
+        197.0546875
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5138,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1364.90234375,
+        192.73046875
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5147,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1358.578125,
+        189.91796875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5155,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1340.40234375,
+        181.96484375
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5163,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1326.01953125,
+        174.7734375
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5170,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1305.78125,
+        167.62890625
+      ]
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "unixTimeMs": 5179,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1285.54296875,
+        159.29296875
+      ]
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        1264.11328125,
+        152.1484375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5187
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5195,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1220.3046875,
+        136.984375
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 5203,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1189.296875,
+        129.93359375
+      ],
+      "isClicked": false,
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 5211,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1173.88671875,
+        127.87890625
+      ],
+      "isClicked": false,
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 5220,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1143.2265625,
+        125.08984375
+      ],
+      "isClicked": false,
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        1080.43359375,
+        121.1640625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5228
+    },
+    {
+      "mousePosition": [
+        1063.12890625,
+        121.1640625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5235,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5243,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1029.4453125,
+        121.1640625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5252,
+      "cursorType": "arrow",
+      "mousePosition": [
+        993.2578125,
+        121.1640625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        934.15234375,
+        128.7890625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5261,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        920.53125,
+        133.65234375
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5268,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        888.3125,
+        143.90234375
+      ],
+      "unixTimeMs": 5277,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5284,
+      "cursorType": "arrow",
+      "mousePosition": [
+        834.62890625,
+        162.41015625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        802.41015625,
+        175.5859375
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5293,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5301,
+      "cursorType": "arrow",
+      "mousePosition": [
+        786.1875,
+        182.07421875
+      ],
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        753.96875,
+        195.25
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5309
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 5317,
+      "mousePosition": [
+        724.37109375,
+        206.5234375
+      ],
+      "isDragging": false,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        692.78515625,
+        216.5703125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5325
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 5333,
+      "mousePosition": [
+        666.7890625,
+        223.06640625
+      ],
+      "isDragging": false,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        640.79296875,
+        229.5625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5342
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5350,
+      "cursorType": "arrow",
+      "mousePosition": [
+        617.1328125,
+        234.5390625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        593.47265625,
+        239.515625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5358,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 5366,
+      "mousePosition": [
+        572.04296875,
+        243.0859375
+      ],
+      "isDragging": false,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        550.61328125,
+        247.84765625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5374,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        533.30859375,
+        253.25390625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5382,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        515.1328125,
+        260.06640625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5390,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        496.95703125,
+        266.87890625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5399,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 5407,
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        490.1484375,
+        270.66015625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        475.765625,
+        277.84765625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5415,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        462.43359375,
+        286.05078125
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5424,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        451.41015625,
+        292.48046875
+      ],
+      "unixTimeMs": 5431,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        441.3046875,
+        298.91015625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5442,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 5448,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        431.19921875,
+        305.33984375
+      ],
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5455,
+      "cursorType": "arrow",
+      "mousePosition": [
+        422.5546875,
+        311.390625
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 5464,
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        415.77734375,
+        315.90625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        410.15625,
+        319.41796875
+      ],
+      "screen": 1,
+      "unixTimeMs": 5472,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 5480,
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        404.53515625,
+        322.9296875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        399.9921875,
+        325.5234375
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5489,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        395.44921875,
+        328.765625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5497,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        393.49609375,
+        330.2265625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5505,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        389.92578125,
+        332.60546875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5513
+    },
+    {
+      "mousePosition": [
+        387.21875,
+        334.76953125
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5521,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        385.05078125,
+        337.47265625
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 5529,
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5537,
+      "cursorType": "arrow",
+      "mousePosition": [
+        383.09765625,
+        339.421875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5545,
+      "cursorType": "arrow",
+      "mousePosition": [
+        381.14453125,
+        341.37109375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5555,
+      "cursorType": "arrow",
+      "mousePosition": [
+        379.6796875,
+        343.80859375
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        378.703125,
+        346.24609375
+      ],
+      "unixTimeMs": 5561,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5569,
+      "cursorType": "arrow",
+      "mousePosition": [
+        377.23828125,
+        348.1953125
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        376.75,
+        350.6328125
+      ],
+      "unixTimeMs": 5577,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        375.7734375,
+        353.0703125
+      ],
+      "unixTimeMs": 5585,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        375.28515625,
+        355.5078125
+      ],
+      "unixTimeMs": 5594,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        374.84765625,
+        357.2421875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5602,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        374.359375,
+        359.6796875
+      ],
+      "unixTimeMs": 5610,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        373.87109375,
+        362.1171875
+      ],
+      "unixTimeMs": 5618,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5627,
+      "cursorType": "arrow",
+      "mousePosition": [
+        373.3828125,
+        364.5546875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        373.3828125,
+        366.9921875
+      ],
+      "unixTimeMs": 5635,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        372.9453125,
+        368.7265625
+      ],
+      "unixTimeMs": 5643,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        372.9453125,
+        371.1640625
+      ],
+      "unixTimeMs": 5651,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        372.45703125,
+        373.6015625
+      ],
+      "unixTimeMs": 5659,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        372.45703125,
+        375.3359375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5667,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        371.96875,
+        377.7734375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5675,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.96875,
+        379.5078125
+      ],
+      "unixTimeMs": 5683,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.96875,
+        381.2421875
+      ],
+      "unixTimeMs": 5691,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        382.9765625
+      ],
+      "unixTimeMs": 5699,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        384.1171875
+      ],
+      "unixTimeMs": 5707,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        384.76953125
+      ],
+      "unixTimeMs": 5716,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        385.421875
+      ],
+      "unixTimeMs": 5724,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        385.6953125
+      ],
+      "unixTimeMs": 5732,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        386.34765625
+      ],
+      "unixTimeMs": 5741,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        387
+      ],
+      "unixTimeMs": 5748,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        387.65234375
+      ],
+      "unixTimeMs": 5757,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        388.3046875
+      ],
+      "unixTimeMs": 5764,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        371.53125,
+        388.95703125
+      ],
+      "unixTimeMs": 5773,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        371.53125,
+        390.09765625
+      ],
+      "unixTimeMs": 5780,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        371.85546875,
+        390.75
+      ],
+      "screen": 1,
+      "unixTimeMs": 5788,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        372.5078125,
+        391.40234375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5796,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        373.265625,
+        392.54296875
+      ],
+      "isClicked": false,
+      "unixTimeMs": 5805
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        374.40625,
+        393.30078125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 5813
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        375.05859375,
+        393.625
+      ],
+      "unixTimeMs": 5821,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        376.19921875,
+        394.3828125
+      ],
+      "unixTimeMs": 5829,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 5837,
+      "mousePosition": [
+        377.93359375,
+        394.81640625
+      ],
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5846,
+      "cursorType": "arrow",
+      "mousePosition": [
+        379.07421875,
+        395.1953125
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        380.80859375,
+        395.62890625
+      ],
+      "unixTimeMs": 5854,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        383.24609375,
+        396.11328125
+      ],
+      "unixTimeMs": 5862,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        387.41015625,
+        396.70703125
+      ],
+      "unixTimeMs": 5870,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        388.55078125,
+        396.70703125
+      ],
+      "unixTimeMs": 5878,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        393.73828125,
+        397.35546875
+      ],
+      "unixTimeMs": 5886,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        395.47265625,
+        397.35546875
+      ],
+      "unixTimeMs": 5894,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        398.71875,
+        397.35546875
+      ],
+      "unixTimeMs": 5902,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        405.0390625,
+        397.35546875
+      ],
+      "unixTimeMs": 5910,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5919,
+      "cursorType": "arrow",
+      "mousePosition": [
+        406.7734375,
+        397.35546875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 5927,
+      "mousePosition": [
+        410.01953125,
+        397.35546875
+      ],
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        413.265625,
+        397.35546875
+      ],
+      "unixTimeMs": 5935,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        415.703125,
+        397.35546875
+      ],
+      "unixTimeMs": 5943,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        418.140625,
+        397.35546875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5950,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        420.578125,
+        397.35546875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5958,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        422.3125,
+        397.35546875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5967,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        424.75,
+        397.35546875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 5975,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        425.890625,
+        397.35546875
+      ],
+      "unixTimeMs": 5983,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 5991,
+      "cursorType": "arrow",
+      "mousePosition": [
+        427.625,
+        397.35546875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        429.359375,
+        397.35546875
+      ],
+      "unixTimeMs": 5999,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6007,
+      "cursorType": "arrow",
+      "mousePosition": [
+        431.09375,
+        397.35546875
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        432.828125,
+        397.35546875
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6015,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6024,
+      "cursorType": "arrow",
+      "mousePosition": [
+        434.5625,
+        397.35546875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        436.296875,
+        397.35546875
+      ],
+      "unixTimeMs": 6032,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        438.734375,
+        397.35546875
+      ],
+      "unixTimeMs": 6040,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        441.171875,
+        397.35546875
+      ],
+      "unixTimeMs": 6048,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        442.90625,
+        397.35546875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6056,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 6064,
+      "isClicked": false,
+      "isDragging": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        445.34375,
+        397.35546875
+      ]
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        447.75,
+        397.35546875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6072,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6080,
+      "cursorType": "arrow",
+      "mousePosition": [
+        450.1875,
+        396.8671875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6089,
+      "cursorType": "arrow",
+      "mousePosition": [
+        452.625,
+        396.8671875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        455.0625,
+        396.8671875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6097,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        457.5,
+        396.37890625
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6105,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        461.6640625,
+        396.37890625
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6113,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6122,
+      "cursorType": "arrow",
+      "mousePosition": [
+        464.1015625,
+        395.890625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        467.34765625,
+        395.34765625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6130,
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        471.51171875,
+        394.75
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6138,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        476.69921875,
+        394.09765625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 6146
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        480.8515625,
+        393.50390625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 6155
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        486.0390625,
+        392.8515625
+      ],
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 6162
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6170,
+      "cursorType": "arrow",
+      "mousePosition": [
+        491.2265625,
+        392.19921875
+      ],
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        496.4140625,
+        391.546875
+      ],
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 6178,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        501.6015625,
+        390.89453125
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 6186,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6195,
+      "cursorType": "arrow",
+      "mousePosition": [
+        506.7890625,
+        390.89453125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6202,
+      "cursorType": "arrow",
+      "mousePosition": [
+        511.9765625,
+        390.2421875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 6210,
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        517.1640625,
+        390.2421875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        522.3515625,
+        390.2421875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6219,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        527.5390625,
+        389.58984375
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6227,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        533.859375,
+        389.58984375
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6235,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6243,
+      "cursorType": "arrow",
+      "mousePosition": [
+        539.046875,
+        388.9375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        544.234375,
+        388.9375
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6251,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        546.671875,
+        388.9375
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6260,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        554.234375,
+        388.1796875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6268,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        556.671875,
+        388.1796875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6276,
+      "isDragging": false,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        560.8359375,
+        388.1796875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6284,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        567.15625,
+        388.1796875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6292,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        571.3203125,
+        387.58203125
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6300,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        575.4765625,
+        387.58203125
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6308,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        579.640625,
+        387.58203125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6316,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        583.8046875,
+        387.58203125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6324,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6332,
+      "cursorType": "arrow",
+      "mousePosition": [
+        587.96875,
+        386.984375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        593.15625,
+        386.984375
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6340,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6349,
+      "cursorType": "arrow",
+      "mousePosition": [
+        595.59375,
+        386.984375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        599.7578125,
+        386.38671875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6357,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6365,
+      "cursorType": "arrow",
+      "mousePosition": [
+        606.078125,
+        386.38671875
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        610.2421875,
+        385.7890625
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6373,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        615.4296875,
+        385.7890625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6381,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        619.59375,
+        385.7890625
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 6390,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        624.78125,
+        385.7890625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 6398,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        628.9453125,
+        385.7890625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6405,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6413,
+      "cursorType": "arrow",
+      "mousePosition": [
+        633.09375,
+        385.7890625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6422,
+      "cursorType": "arrow",
+      "mousePosition": [
+        635.53125,
+        385.7890625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        639.6953125,
+        385.7890625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 6430,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        643.859375,
+        385.7890625
+      ],
+      "unixTimeMs": 6438
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        648.0234375,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6447,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6455,
+      "cursorType": "arrow",
+      "mousePosition": [
+        651.26953125,
+        385.19140625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        654.515625,
+        385.19140625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 6463,
+      "cursorType": "arrow",
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        657.76171875,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6471,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6479,
+      "cursorType": "arrow",
+      "mousePosition": [
+        661.0078125,
+        385.19140625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6487,
+      "cursorType": "arrow",
+      "mousePosition": [
+        663.4453125,
+        385.19140625
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        666.69140625,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6495,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        669.12890625,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6503,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        671.56640625,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6511,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        674.00390625,
+        385.19140625
+      ],
+      "isClicked": false,
+      "unixTimeMs": 6520,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6528,
+      "cursorType": "arrow",
+      "mousePosition": [
+        676.44140625,
+        385.19140625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        678.17578125,
+        385.19140625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6536,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6544,
+      "cursorType": "arrow",
+      "mousePosition": [
+        680.61328125,
+        385.19140625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        683.05078125,
+        385.19140625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6552,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        684.78515625,
+        385.19140625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6560,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        687.22265625,
+        385.19140625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6568,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        688.95703125,
+        385.625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6576,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 6584,
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        690.69140625,
+        385.625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6592,
+      "cursorType": "arrow",
+      "mousePosition": [
+        693.12890625,
+        385.625
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        694.86328125,
+        386.05859375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 6600
+    },
+    {
+      "mousePosition": [
+        696.59765625,
+        386.05859375
+      ],
+      "isDragging": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 6608
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6617,
+      "cursorType": "arrow",
+      "mousePosition": [
+        698.33203125,
+        386.05859375
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        700.06640625,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6625,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        701.80078125,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6633,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        704.23828125,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6642,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        707.484375,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6650,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        710.73046875,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6657,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6666,
+      "cursorType": "arrow",
+      "mousePosition": [
+        714.89453125,
+        386.4921875
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        718.140625,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6674,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        722.3046875,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6682,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        726.46875,
+        386.4921875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6690,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        728.203125,
+        386.4921875
+      ],
+      "screen": 1,
+      "isClicked": false,
+      "unixTimeMs": 6698
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6706,
+      "cursorType": "arrow",
+      "mousePosition": [
+        734.5234375,
+        385.0859375
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        738.6875,
+        384.48828125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6714,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "unixTimeMs": 6722,
+      "mousePosition": [
+        743.875,
+        383.8359375
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6730,
+      "cursorType": "arrow",
+      "mousePosition": [
+        748.0390625,
+        383.23828125
+      ],
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        754.359375,
+        382.53515625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 6739
+    },
+    {
+      "unixTimeMs": 6747,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        759.546875,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6755,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        765.8671875,
+        382.53515625
+      ]
+    },
+    {
+      "mousePosition": [
+        772.07421875,
+        382.53515625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 6764
+    },
+    {
+      "unixTimeMs": 6771,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        778.39453125,
+        382.53515625
+      ]
+    },
+    {
+      "mousePosition": [
+        784.71484375,
+        382.53515625
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 6780
+    },
+    {
+      "unixTimeMs": 6788,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        787.15234375,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6796,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        796.0625,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6804,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        798.5,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6812,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        802.6640625,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6820,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        810.2265625,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6828,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        814.390625,
+        382.53515625
+      ]
+    },
+    {
+      "unixTimeMs": 6837,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        818.5546875,
+        382.53515625
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6844,
+      "cursorType": "arrow",
+      "mousePosition": [
+        822.71875,
+        382.53515625
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 6852,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        826.8828125,
+        381.9375
+      ]
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        828.6171875,
+        381.9375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6860,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        832.78125,
+        381.9375
+      ],
+      "unixTimeMs": 6868,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        836.02734375,
+        381.9375
+      ],
+      "unixTimeMs": 6877,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        840.19140625,
+        381.9375
+      ],
+      "unixTimeMs": 6885,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        843.4375,
+        381.9375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6893,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 6901,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        846.68359375,
+        381.39453125
+      ]
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        849.12109375,
+        381.39453125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 6909,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 6918,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        852.3671875,
+        381.39453125
+      ]
+    },
+    {
+      "unixTimeMs": 6926,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        857.5546875,
+        381.39453125
+      ]
+    },
+    {
+      "unixTimeMs": 6934,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        860.80078125,
+        381.39453125
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6942,
+      "cursorType": "arrow",
+      "mousePosition": [
+        864.046875,
+        381.39453125
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 6950,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        868.2109375,
+        380.796875
+      ]
+    },
+    {
+      "unixTimeMs": 6958,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        872.375,
+        380.796875
+      ]
+    },
+    {
+      "unixTimeMs": 6966,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        876.5390625,
+        380.796875
+      ]
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        878.2734375,
+        380.796875
+      ],
+      "unixTimeMs": 6975,
+      "cursorType": "arrow",
+      "isDragging": false
+    },
+    {
+      "mousePosition": [
+        882.4375,
+        380.19921875
+      ],
+      "screen": 1,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 6982
+    },
+    {
+      "mousePosition": [
+        886.6015625,
+        380.19921875
+      ],
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 6990
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 6998,
+      "cursorType": "arrow",
+      "mousePosition": [
+        892.921875,
+        380.19921875
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        897.0859375,
+        380.19921875
+      ],
+      "unixTimeMs": 7006,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        899.5234375,
+        379.7109375
+      ],
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 7015
+    },
+    {
+      "unixTimeMs": 7023,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        905.84375,
+        379.7109375
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7031,
+      "cursorType": "arrow",
+      "mousePosition": [
+        910.0078125,
+        379.7109375
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 7039,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        912.4453125,
+        379.7109375
+      ]
+    },
+    {
+      "unixTimeMs": 7048,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        918.765625,
+        379.0078125
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7056,
+      "cursorType": "arrow",
+      "mousePosition": [
+        920.5,
+        379.0078125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7064,
+      "cursorType": "arrow",
+      "mousePosition": [
+        923.74609375,
+        378.46484375
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 7072,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        926.9921875,
+        378.46484375
+      ]
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        929.4140625,
+        377.9765625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7081,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "unixTimeMs": 7089,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        931.8515625,
+        377.48828125
+      ]
+    },
+    {
+      "mousePosition": [
+        933.5859375,
+        377.05078125
+      ],
+      "screen": 1,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 7096
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7436,
+      "cursorType": "arrow",
+      "mousePosition": [
+        934.95703125,
+        377.05078125
+      ],
+      "isDragging": false
+    },
+    {
+      "unixTimeMs": 7449,
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        938.203125,
+        377.05078125
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7456,
+      "cursorType": "arrow",
+      "mousePosition": [
+        944.6953125,
+        377.05078125
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        947.94140625,
+        377.05078125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7463,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "cursorType": "arrow",
+      "isClicked": false,
+      "unixTimeMs": 7471,
+      "mousePosition": [
+        951.1875,
+        377.05078125
+      ],
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        958.75,
+        377.05078125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7478,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        966.3125,
+        376.29296875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7486,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        972.6328125,
+        376.29296875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7494,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        981.54296875,
+        376.29296875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7503,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "mousePosition": [
+        989.10546875,
+        376.29296875
+      ],
+      "unixTimeMs": 7511,
+      "isClicked": false,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        995.42578125,
+        376.29296875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7519,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7527,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1002.98828125,
+        375.53515625
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 7535,
+      "mousePosition": [
+        1010.55078125,
+        375.53515625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1016.87109375,
+        375.53515625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7543,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1025.78125,
+        374.72265625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7551,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1033.34375,
+        374.72265625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7560,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1040.90625,
+        374.72265625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7568,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1047.2265625,
+        374.01953125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7576,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1053.546875,
+        374.01953125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7584,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7593,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1055.984375,
+        373.53125
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1061.171875,
+        373.53125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7600,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1066.359375,
+        373.53125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7608,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1070.5234375,
+        372.93359375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7617,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1073.76953125,
+        372.93359375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7625,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1077.015625,
+        372.390625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7633,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1080.26171875,
+        372.390625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7641,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        1082.69921875,
+        371.90234375
+      ],
+      "unixTimeMs": 7649,
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        1087.88671875,
+        371.90234375
+      ],
+      "unixTimeMs": 7658,
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1092.05078125,
+        371.3046875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7665,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1095.296875,
+        371.3046875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7673,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1097.734375,
+        371.3046875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7681,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1100.98046875,
+        370.76171875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7689,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1104.2265625,
+        370.76171875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7698,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1106.6640625,
+        370.2734375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7706,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1109.91015625,
+        370.2734375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7714,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1112.34765625,
+        369.78515625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7722,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1114.08203125,
+        369.78515625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7730,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7738,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1115.8125,
+        369.3515625
+      ],
+      "isDragging": false
+    },
+    {
+      "cursorType": "arrow",
+      "mousePosition": [
+        1117.546875,
+        368.9140625
+      ],
+      "unixTimeMs": 7746,
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1119.28125,
+        368.4765625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7754,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1121.015625,
+        368.4765625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7763,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1122.15625,
+        367.71484375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7771,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1123.88671875,
+        367.28125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7779,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1125.02734375,
+        366.8984375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7787,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1126.16796875,
+        366.13671875
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7795,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1127.30859375,
+        365.75390625
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7803,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 7812,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1128.06640625,
+        364.609375
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        1128.71875,
+        363.953125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 7820,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1129.86328125,
+        363.72265625
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8086
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1135.48046875,
+        360.20703125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8093,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1143.58203125,
+        356.15234375
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8100,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1153.08984375,
+        350.96484375
+      ],
+      "unixTimeMs": 8107,
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8113,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1159.89453125,
+        347.1796875
+      ]
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1170.9140625,
+        342.5859375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8120
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8128,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1183.55859375,
+        336.74609375
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8137,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1203.79296875,
+        328.41015625
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8145,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1210.11328125,
+        325.59765625
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8153,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1221.97265625,
+        321.9453125
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8161,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1233.91015625,
+        319.1875
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8169,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1244.28125,
+        315.7265625
+      ]
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8177,
+      "cursorType": "arrow",
+      "screen": 1,
+      "mousePosition": [
+        1253.19140625,
+        314.10546875
+      ]
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 8185,
+      "screen": 1,
+      "mousePosition": [
+        1260.75390625,
+        311.8359375
+      ],
+      "isDragging": false,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 8193,
+      "screen": 1,
+      "mousePosition": [
+        1264,
+        311.29296875
+      ],
+      "isDragging": false,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 8202,
+      "screen": 1,
+      "mousePosition": [
+        1269.1875,
+        309.9921875
+      ],
+      "isDragging": false,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1274.375,
+        309.33984375
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8210,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1278.5390625,
+        308.7421875
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8218,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "unixTimeMs": 8226,
+      "screen": 1,
+      "mousePosition": [
+        1281.78515625,
+        307.65625
+      ],
+      "isDragging": false,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1284.20703125,
+        307.16796875
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8234
+    },
+    {
+      "unixTimeMs": 8242,
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        1286.64453125,
+        306.6796875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "mousePosition": [
+        1288.37890625,
+        305.80859375
+      ],
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 8250
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1290.11328125,
+        305.37109375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8258
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1291.84765625,
+        304.93359375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8267
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1292.98828125,
+        304.55078125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8275,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1294.72265625,
+        303.6796875
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8282
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1296.45703125,
+        302.80859375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8291
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1297.59765625,
+        302.046875
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 8299,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1299.33203125,
+        301.17578125
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 8307,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "isClicked": false,
+      "unixTimeMs": 8315,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1300.6328125,
+        299.87109375
+      ]
+    },
+    {
+      "isClicked": false,
+      "mousePosition": [
+        1302.58203125,
+        298.40625
+      ],
+      "cursorType": "arrow",
+      "unixTimeMs": 8323,
+      "screen": 1,
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "unixTimeMs": 8331,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1304.53125,
+        296.94140625
+      ]
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "unixTimeMs": 8339,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1306.48046875,
+        295.4765625
+      ]
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "unixTimeMs": 8348,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1308.42578125,
+        294.015625
+      ]
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "isClicked": false,
+      "unixTimeMs": 8355,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1310.375,
+        292.0625
+      ]
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1313.078125,
+        289.89453125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8364
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1315.02734375,
+        288.4296875
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8372
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1317.73046875,
+        286.26171875
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8380
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        1319.6796875,
+        284.796875
+      ],
+      "unixTimeMs": 8388
+    },
+    {
+      "isDragging": false,
+      "mousePosition": [
+        1322.1171875,
+        283.33203125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8396,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1324.06640625,
+        281.37890625
+      ],
+      "unixTimeMs": 8404,
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1325.3671875,
+        280.07421875
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8413
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1327.31640625,
+        278.609375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8421
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1329.265625,
+        277.14453125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8429
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1330.56640625,
+        275.83984375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8437
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1331.8671875,
+        274.53515625
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8445
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1332.625,
+        273.390625
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8453
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1333.27734375,
+        272.734375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8462
+    },
+    {
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        1333.9296875,
+        272.078125
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 8470
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1334.203125,
+        271.80078125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8478
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1334.85546875,
+        271.14453125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8486
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1335.12890625,
+        271.14453125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 8494
+    },
+    {
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        1335.40234375,
+        270.8671875
+      ],
+      "isClicked": false,
+      "unixTimeMs": 8502,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "isClicked": true,
+      "isDragging": false,
+      "unixTimeMs": 8525,
+      "mousePosition": [
+        1335.40234375,
+        270.8671875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1333.8125,
+        272.90625
+      ],
+      "unixTimeMs": 9338,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1328.515625,
+        278.95703125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 9346
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1322.03125,
+        285.4375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 9354
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 9361,
+      "mousePosition": [
+        1317.11328125,
+        290.3515625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1311.05859375,
+        295.64453125
+      ],
+      "unixTimeMs": 9367,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1305.00390625,
+        300.9375
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9377
+    },
+    {
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        1289.09765625,
+        313.4296875
+      ],
+      "isClicked": false,
+      "unixTimeMs": 9382,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        1257.60546875,
+        337.04296875
+      ],
+      "unixTimeMs": 9387,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        1245.27734375,
+        346.28515625
+      ],
+      "unixTimeMs": 9395,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        1205.37109375,
+        375.77734375
+      ],
+      "unixTimeMs": 9403,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1173.87890625,
+        399.390625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9411
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        1142.38671875,
+        424.578125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9419
+    },
+    {
+      "unixTimeMs": 9427,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        1112.46875,
+        451.33984375
+      ],
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "mousePosition": [
+        1079.875,
+        480.671875
+      ],
+      "unixTimeMs": 9435,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        1047.296875,
+        509.98828125
+      ],
+      "unixTimeMs": 9444,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 9452,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        1014.703125,
+        539.3203125
+      ],
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        999.93359375,
+        552.94921875
+      ],
+      "unixTimeMs": 9460,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        968.96875,
+        582.28125
+      ],
+      "unixTimeMs": 9468,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "mousePosition": [
+        920.53515625,
+        628.69140625
+      ],
+      "unixTimeMs": 9476,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9484,
+      "cursorType": "pointingHand",
+      "mousePosition": [
+        908.20703125,
+        638.9609375
+      ]
+    },
+    {
+      "unixTimeMs": 9492,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        880.85546875,
+        663.26953125
+      ],
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        855.9609375,
+        686.6953125
+      ],
+      "unixTimeMs": 9500
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        838.52734375,
+        704.125
+      ],
+      "unixTimeMs": 9508,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "mousePosition": [
+        821.09375,
+        721.5546875
+      ],
+      "unixTimeMs": 9517,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        814.609375,
+        728.03515625
+      ],
+      "unixTimeMs": 9526,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        802.7109375,
+        741.01171875
+      ],
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 9535
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        792.4375,
+        753.3359375
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9542
+    },
+    {
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        785.0859375,
+        763.4375
+      ],
+      "isClicked": false,
+      "unixTimeMs": 9549,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        778.65234375,
+        773.5390625
+      ],
+      "unixTimeMs": 9559,
+      "screen": 1,
+      "cursorType": "pointingHand"
+    },
+    {
+      "mousePosition": [
+        773.46484375,
+        783.046875
+      ],
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1,
+      "unixTimeMs": 9566
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        769.140625,
+        792.5546875
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9575
+    },
+    {
+      "mousePosition": [
+        764.81640625,
+        802.0625
+      ],
+      "unixTimeMs": 9582,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "mousePosition": [
+        762.3828125,
+        810.97265625
+      ],
+      "unixTimeMs": 9592,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        759.140625,
+        819.8828125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9598
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        756.87109375,
+        827.4453125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9608
+    },
+    {
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        755.35546875,
+        835.0078125
+      ],
+      "isClicked": false,
+      "unixTimeMs": 9614,
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 9625,
+      "screen": 1,
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        753.24609375,
+        841.328125
+      ]
+    },
+    {
+      "unixTimeMs": 9631,
+      "screen": 1,
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        752.7578125,
+        843.765625
+      ]
+    },
+    {
+      "unixTimeMs": 9641,
+      "screen": 1,
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "mousePosition": [
+        750.97265625,
+        847.9296875
+      ]
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        750.4296875,
+        851.17578125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9647
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        749.453125,
+        853.61328125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9658
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        749.015625,
+        855.34765625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9663
+    },
+    {
+      "mousePosition": [
+        748.6328125,
+        856.48828125
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9671,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        748.1953125,
+        858.22265625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9679
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9687,
+      "mousePosition": [
+        747.7578125,
+        859.95703125
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        747.3203125,
+        861.69140625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9696
+    },
+    {
+      "mousePosition": [
+        747.3203125,
+        863.42578125
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9704,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9712,
+      "mousePosition": [
+        746.8828125,
+        865.16015625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9720,
+      "mousePosition": [
+        746.39453125,
+        867.59765625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        746.39453125,
+        869.33203125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9728
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        745.95703125,
+        871.06640625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9736
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        745.57421875,
+        872.20703125
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9744
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        745.57421875,
+        873.34765625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9752
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        745.57421875,
+        874
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9761
+    },
+    {
+      "mousePosition": [
+        745.24609375,
+        874.65234375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9769,
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 9777,
+      "mousePosition": [
+        745.24609375,
+        874.92578125
+      ],
+      "screen": 1,
+      "cursorType": "pointingHand",
+      "isDragging": false,
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9785,
+      "mousePosition": [
+        745.24609375,
+        875.19921875
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9793,
+      "mousePosition": [
+        745.24609375,
+        875.47265625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 9802,
+      "mousePosition": [
+        745.24609375,
+        875.74609375
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9810,
+      "isClicked": false,
+      "mousePosition": [
+        745.24609375,
+        876.01953125
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9818,
+      "isClicked": false,
+      "mousePosition": [
+        745.24609375,
+        876.29296875
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9826,
+      "isClicked": false,
+      "mousePosition": [
+        745.24609375,
+        876.56640625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9834,
+      "isClicked": false,
+      "mousePosition": [
+        745.51953125,
+        876.83984375
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9842,
+      "isClicked": false,
+      "mousePosition": [
+        745.84375,
+        877.4921875
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9851,
+      "isClicked": false,
+      "mousePosition": [
+        746.1171875,
+        877.765625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        746.390625,
+        878.0390625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9858
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        747.04296875,
+        878.69140625
+      ],
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "unixTimeMs": 9866
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 9874,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "pointingHand",
+      "mousePosition": [
+        747.6953125,
+        879.015625
+      ]
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 9882,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "pointingHand",
+      "mousePosition": [
+        747.96875,
+        879.2890625
+      ]
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9891,
+      "isClicked": false,
+      "mousePosition": [
+        748.2421875,
+        879.5625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9899,
+      "isClicked": false,
+      "mousePosition": [
+        748.89453125,
+        879.88671875
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9907,
+      "isClicked": false,
+      "mousePosition": [
+        749.16796875,
+        880.16015625
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "screen": 1,
+      "unixTimeMs": 9915,
+      "mousePosition": [
+        749.44140625,
+        880.16015625
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "screen": 1,
+      "unixTimeMs": 9923,
+      "isClicked": false,
+      "mousePosition": [
+        749.71484375,
+        880.43359375
+      ],
+      "cursorType": "pointingHand"
+    },
+    {
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "screen": 1,
+      "unixTimeMs": 9931,
+      "mousePosition": [
+        749.98828125,
+        880.70703125
+      ],
+      "isDragging": false
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 9939,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "pointingHand",
+      "mousePosition": [
+        750.26171875,
+        880.98046875
+      ]
+    },
+    {
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "screen": 1,
+      "unixTimeMs": 9947,
+      "mousePosition": [
+        750.53515625,
+        881.25390625
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "screen": 1,
+      "unixTimeMs": 9956,
+      "mousePosition": [
+        750.80859375,
+        881.52734375
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "cursorType": "pointingHand",
+      "screen": 1,
+      "unixTimeMs": 9963,
+      "mousePosition": [
+        751.4609375,
+        882.1796875
+      ],
+      "isDragging": false
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        751.78515625,
+        882.83203125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 9972
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        752.54296875,
+        883.97265625
+      ],
+      "unixTimeMs": 9980
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 9989,
+      "cursorType": "arrow",
+      "mousePosition": [
+        752.8671875,
+        884.625
+      ],
+      "isClicked": false,
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 9997,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        753.625,
+        885.765625
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10004,
+      "mousePosition": [
+        753.94921875,
+        886.41796875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "isClicked": false,
+      "mousePosition": [
+        754.2734375,
+        887.0703125
+      ],
+      "isDragging": false,
+      "unixTimeMs": 10013,
+      "screen": 1
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10021,
+      "mousePosition": [
+        754.59765625,
+        887.72265625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 10029,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        754.87109375,
+        887.99609375
+      ],
+      "screen": 1
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10038,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.14453125,
+        888.26953125
+      ]
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        755.41796875,
+        888.54296875
+      ],
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 10049
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10055,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.41796875,
+        888.81640625
+      ]
+    },
+    {
+      "screen": 1,
+      "isClicked": false,
+      "mousePosition": [
+        755.41796875,
+        889.08984375
+      ],
+      "isDragging": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 10061
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10069,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.41796875,
+        889.36328125
+      ]
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10086,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.41796875,
+        889.609375
+      ]
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10094,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.41796875,
+        889.8828125
+      ]
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        755.41796875,
+        890.15625
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 10102
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10110,
+      "mousePosition": [
+        755.41796875,
+        890.80859375
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10118,
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "mousePosition": [
+        755.41796875,
+        891.4609375
+      ]
+    },
+    {
+      "isClicked": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 10126,
+      "mousePosition": [
+        755.41796875,
+        892.11328125
+      ],
+      "isDragging": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10135,
+      "mousePosition": [
+        755.41796875,
+        892.765625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 10143,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        755.41796875,
+        893.0390625
+      ],
+      "screen": 1
+    },
+    {
+      "unixTimeMs": 10151,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "isDragging": false,
+      "mousePosition": [
+        755.41796875,
+        893.69140625
+      ],
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        755.41796875,
+        893.96484375
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 10159
+    },
+    {
+      "screen": 1,
+      "isDragging": false,
+      "mousePosition": [
+        755.41796875,
+        894.23828125
+      ],
+      "isClicked": false,
+      "cursorType": "arrow",
+      "unixTimeMs": 10167
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10175,
+      "mousePosition": [
+        755.41796875,
+        894.51171875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10183,
+      "mousePosition": [
+        755.08984375,
+        895.1640625
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10191,
+      "mousePosition": [
+        754.70703125,
+        896.3046875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10200,
+      "mousePosition": [
+        754.4296875,
+        896.578125
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10208,
+      "mousePosition": [
+        753.66796875,
+        897.71875
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 10216,
+      "mousePosition": [
+        753.33984375,
+        898.37109375
+      ]
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 10224,
+      "mousePosition": [
+        752.68359375,
+        899.0234375
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10232,
+      "mousePosition": [
+        751.5390625,
+        899.78125
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 10240,
+      "mousePosition": [
+        750.77734375,
+        900.921875
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10248,
+      "mousePosition": [
+        749.6328125,
+        901.30078125
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "cursorType": "arrow",
+      "screen": 1,
+      "isClicked": false,
+      "isDragging": false,
+      "unixTimeMs": 10258,
+      "mousePosition": [
+        748.48828125,
+        902.05859375
+      ]
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10264,
+      "mousePosition": [
+        747.34375,
+        902.4375
+      ],
+      "cursorType": "arrow"
+    },
+    {
+      "unixTimeMs": 10275,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        746.6875,
+        902.76171875
+      ]
+    },
+    {
+      "isDragging": false,
+      "unixTimeMs": 10281,
+      "screen": 1,
+      "isClicked": false,
+      "cursorType": "arrow",
+      "mousePosition": [
+        745.54296875,
+        903.140625
+      ]
+    },
+    {
+      "mousePosition": [
+        744.88671875,
+        903.46484375
+      ],
+      "isClicked": false,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "screen": 1,
+      "unixTimeMs": 10291
+    },
+    {
+      "unixTimeMs": 10297,
+      "isDragging": false,
+      "isClicked": false,
+      "mousePosition": [
+        743.7421875,
+        903.46484375
+      ],
+      "screen": 1,
+      "cursorType": "arrow"
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        743.0859375,
+        903.46484375
+      ],
+      "unixTimeMs": 10305
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        742.80859375,
+        903.46484375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 10314,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "isClicked": false,
+      "screen": 1,
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        742.15234375,
+        903.46484375
+      ],
+      "unixTimeMs": 10321
+    },
+    {
+      "cursorType": "arrow",
+      "isDragging": false,
+      "mousePosition": [
+        741.875,
+        903.46484375
+      ],
+      "isClicked": false,
+      "unixTimeMs": 10330,
+      "screen": 1
+    },
+    {
+      "screen": 1,
+      "mousePosition": [
+        741.625,
+        903.46484375
+      ],
+      "isDragging": false,
+      "unixTimeMs": 10346,
+      "cursorType": "arrow",
+      "isClicked": false
+    },
+    {
+      "unixTimeMs": 10370,
+      "isDragging": false,
+      "cursorType": "arrow",
+      "isClicked": false,
+      "screen": 1,
+      "mousePosition": [
+        741.3828125,
+        903.46484375
+      ]
+    },
+    {
+      "isClicked": true,
+      "screen": 1,
+      "isDragging": false,
+      "unixTimeMs": 10451,
+      "mousePosition": [
+        741.3828125,
+        903.46484375
+      ],
+      "cursorType": "arrow"
+    }
+  ],
+  "height": 982,
+  "width": 1512
+}
